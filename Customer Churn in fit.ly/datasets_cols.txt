@@ -1,0 +1,5 @@
+DataFrame Columns
+account_info customer_id, email, state, plan, plan_list_price, churn
+customer_support ticket_time, user_id, channel, topic, resolution_time_hours,
+state
+user_activity event_time, user_id, event_type
